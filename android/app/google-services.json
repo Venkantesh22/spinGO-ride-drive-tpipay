@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "489597878319",
+    "firebase_url": "https://spingo-ride-2ed5e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spingo-ride-2ed5e",
+    "storage_bucket": "spingo-ride-2ed5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489597878319:android:be7dc0cb43a026ff3446da",
+        "android_client_info": {
+          "package_name": "com.spingoride.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkq9u9I6JU3ondTmZXengV-m3EGVUWIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489597878319:android:860fcb0e4733b3603446da",
+        "android_client_info": {
+          "package_name": "com.spingoride.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkq9u9I6JU3ondTmZXengV-m3EGVUWIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
